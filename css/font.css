@@ -1,0 +1,38 @@
+/* CSS Document */
+  /* For extra small: */
+a {
+  font-size: 16px;
+  }
+p {
+  font-size: 16px;
+  }
+h1 
+  { 
+  font-size: 26px; 
+  }
+h2 
+  { 
+  font-size: 24px; 
+  } 
+/* For small: */
+@media only screen and (min-width: 576px){ 
+a { font-size: 16px; }
+p { 
+  font-size: 16px;
+  }
+h1 
+  { 
+  font-size: 32px; 
+  }
+h2 
+  { 
+  font-size: 24px; 
+  } 
+}
+/* For medium: */
+@media only screen and (min-width: 768px){
+a { font-size: 20px; }
+p { font-size: 20px; }
+h1 { font-size: 40px; }
+h2 { font-size: 32px; } 
+}

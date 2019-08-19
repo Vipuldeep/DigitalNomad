@@ -1,0 +1,8 @@
+/* CSS Document */
+.list-unstyled a{
+	text-decoration: none;
+	color: white;
+}
+.list-unstyled li:hover a{
+    color: #000000;
+}

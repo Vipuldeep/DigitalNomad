@@ -1,0 +1,10 @@
+/* For extra small: */
+p {font-size: 16px;}
+/* For small: */
+@media only screen and (min-width: 576px){ 
+  h3 { font-size: 4px;}
+}
+/* For medium: */
+@media only screen and (min-width: 768px){
+  p { font-size: 20px;}
+  }

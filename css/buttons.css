@@ -1,0 +1,18 @@
+/* CSS Document */
+.buttons {
+  background-color: #8c8c8c;
+  border: none;
+  color: black;
+  border-radius: 40px;
+  width: 20%;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+}
+
+.buttons:hover {
+  font: white;
+  background-color: #808080;
+  color: white;
+}
