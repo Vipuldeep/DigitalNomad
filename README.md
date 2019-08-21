@@ -9,19 +9,15 @@ Digital Nomad is a website, which provides backpackers with budget accommodation
 Adobe Dreamweaver
 
 <h2>Localhost</h2>
-<hr>
 XAMPP
 
 <h2>Database tool</h2>
-<hr>
 PHPMyadmin
 
 <h2>Languages used</h2>
-<hr>
 HTML/CSS and JavaScript
 
 <h2>Server side programming language</h2> 
-<hr>
 PHP 
 
 <h2>Database</h2>
