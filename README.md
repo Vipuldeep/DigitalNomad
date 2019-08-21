@@ -6,7 +6,6 @@
 Digital Nomad is a website, which provides backpackers with budget accommodation services. The user can choose which city, they want to book a room in.We will also showcase pictures of happening events that are around, facilities we provide and cities to explore type of options that will help backpackers.This website will enable Backpackers to apply for volunteering work or jobs with us depending on the length of their stay.
 
 <h2>IDE</h2>
-<hr>
 Adobe Dreamweaver
 
 <h2>Localhost</h2>
